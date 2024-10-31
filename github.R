@@ -16,3 +16,5 @@ gitcreds::gitcreds_get(use_cache=FALSE)$password # Optional: see tokens
 
 # Add current environment to GIT
 use_git()
+
+print("hola")
