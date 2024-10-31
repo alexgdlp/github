@@ -29,3 +29,5 @@ use_github()
 
 # Script substantiu
 print("hola món")
+
+print("necessito ajuda")
